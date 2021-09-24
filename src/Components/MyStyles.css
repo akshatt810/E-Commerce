@@ -1,0 +1,86 @@
+/* for NavBar */
+
+.links {
+    /* color: #a1a1a1; */
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left:10px;
+}
+
+.NavBar{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background-color: #282c34;
+}
+.SideMenu {
+    display: flex;
+    font-size: 18px;
+    justify-content: left;
+    padding-top: 15px;
+    padding-right: 100px;
+}
+.CartSymbol {
+    justify-content: left;
+    padding-left: -50px;
+}
+.CartLogoImg {
+    padding-top: 16px;
+    padding-left: 5px;
+    height : 15px;
+    max-width: 45%;
+    padding-right: 8px;
+
+}
+
+/* for MainHeading */
+
+.Heading{
+    font-size: 40px;
+    font-weight: 1000;
+    color: #a0a0a0;
+    text-align: center;
+    padding: 25px 5px 0px 5px;
+}
+
+/* for HomePage */
+
+.Categories {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.CatItems {
+    display: flex;
+    color : #a1a1a1;
+    flex-direction: column;
+    text-align: center;
+    margin: 5px;
+}
+
+.CatItems img {
+    width: 250px;
+}
+
+/* for productPages */
+.container{
+ display: flex;
+justify-content: space-around;
+}
+.container img {
+    max-height: 300px;
+    width: 200px;
+}
+button {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/*for Footer*/
+.Foot {
+    background-color: #282c34;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
