@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.247eec22.chunk.css",
+    "main.js": "/E-Commerce/static/js/main.dc32acb5.chunk.js",
+    "main.js.map": "/E-Commerce/static/js/main.dc32acb5.chunk.js.map",
+    "runtime-main.js": "/E-Commerce/static/js/runtime-main.7de09f78.js",
+    "runtime-main.js.map": "/E-Commerce/static/js/runtime-main.7de09f78.js.map",
+    "static/js/2.03641671.chunk.js": "/E-Commerce/static/js/2.03641671.chunk.js",
+    "static/js/2.03641671.chunk.js.map": "/E-Commerce/static/js/2.03641671.chunk.js.map",
+    "static/js/3.98624a3c.chunk.js": "/E-Commerce/static/js/3.98624a3c.chunk.js",
+    "static/js/3.98624a3c.chunk.js.map": "/E-Commerce/static/js/3.98624a3c.chunk.js.map",
+    "index.html": "/E-Commerce/index.html",
+    "static/css/main.247eec22.chunk.css.map": "/E-Commerce/static/css/main.247eec22.chunk.css.map",
+    "static/js/2.03641671.chunk.js.LICENSE.txt": "/E-Commerce/static/js/2.03641671.chunk.js.LICENSE.txt",
+    "static/media/BookFive.4e329cf1.jpg": "/E-Commerce/static/media/BookFive.4e329cf1.jpg",
+    "static/media/BookFour.592638df.jpg": "/E-Commerce/static/media/BookFour.592638df.jpg",
+    "static/media/BookOne.a5df1d57.jpg": "/E-Commerce/static/media/BookOne.a5df1d57.jpg",
+    "static/media/BookThree.ebca0ffa.jpg": "/E-Commerce/static/media/BookThree.ebca0ffa.jpg",
+    "static/media/BooksLogo.05f643f0.jpg": "/E-Commerce/static/media/BooksLogo.05f643f0.jpg",
+    "static/media/Cart.bb068015.jpg": "/E-Commerce/static/media/Cart.bb068015.jpg",
+    "static/media/ElectronicsLogo.5b0a908e.webp": "/E-Commerce/static/media/ElectronicsLogo.5b0a908e.webp",
+    "static/media/FashionLogo.b815e280.webp": "/E-Commerce/static/media/FashionLogo.b815e280.webp",
+    "static/media/GiftFour.f2383133.jpg": "/E-Commerce/static/media/GiftFour.f2383133.jpg",
+    "static/media/GiftLogo.057d2275.webp": "/E-Commerce/static/media/GiftLogo.057d2275.webp",
+    "static/media/GiftThree.470aa021.jpg": "/E-Commerce/static/media/GiftThree.470aa021.jpg",
+    "static/media/MobileFive.d4d68991.jpg": "/E-Commerce/static/media/MobileFive.d4d68991.jpg",
+    "static/media/MobileFour.7722f8ad.jpg": "/E-Commerce/static/media/MobileFour.7722f8ad.jpg",
+    "static/media/MobileOne.1073c2b3.jpg": "/E-Commerce/static/media/MobileOne.1073c2b3.jpg",
+    "static/media/MobileTwo.49fe6c6e.jpg": "/E-Commerce/static/media/MobileTwo.49fe6c6e.jpg",
+    "static/media/MobilesLogo.8d02dfd9.webp": "/E-Commerce/static/media/MobilesLogo.8d02dfd9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de09f78.js",
+    "static/js/2.03641671.chunk.js",
+    "static/css/main.247eec22.chunk.css",
+    "static/js/main.dc32acb5.chunk.js"
+  ]
+}
